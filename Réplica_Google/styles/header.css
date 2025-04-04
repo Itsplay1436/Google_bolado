@@ -1,0 +1,159 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    column-gap: 12px;
+    padding: 8px 20px;
+    z-index: 2;
+    position: relative;
+  }
+  
+  .cabecalho ul {
+    list-style: none;
+    display: flex;
+    column-gap: 15px;
+    margin-right: 4px;
+  }
+  
+  .cabecalho li a {
+    color: var(--secundario);
+    font-size: 13px;
+    line-height: 24px;
+  }
+  
+  .cabecalho button {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: transparent;
+    transition: background 0.2s;
+  }
+  
+  .cabecalho button:hover {
+    background: rgba(60, 64, 67, 0.08);
+  }
+  
+  .cabecalho button svg {
+    width: 24px;
+    height: 24px;
+    margin: auto;
+  }
+  
+  .cabecalho button svg path {
+    fill: #5f6368;
+  }
+  
+  .cabecalho img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+
+  .avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+  
+  #menuAplicativos {
+    position: absolute;
+    top: 56px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    row-gap: 12px;
+    opacity: 0;
+    visibility: hidden;
+    padding-top: 10px;
+    background: #fff;
+    width: 310px;
+    height: 448px;
+    overflow-y: scroll;
+    border-radius: 8px;
+    border: 1px solid rgba(0,0,0,.2);
+    box-shadow: 0px 1px 2px 0px rgb(60 64 67 / 30%), 0px 2px 6px 2px rgb(60 64 67 / 15%);
+    overflow-x: hidden;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 1px 2px 0px rgb(60 64 67 / 30%), 0px 2px 6px 2px rgb(60 64 67 / 15%);
+  }
+  
+  #menuAplicativos.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  #menuAplicativos hr {
+    border: 0;
+    border-top: 3px solid #e8eaed;
+  }
+  
+  .grupoAplicativos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    padding-left: 20px;
+  }
+  
+  .aplicativo {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    row-gap: 6px;
+    padding: 2px;
+    transition: all 0.2s;
+  }
+  
+  .aplicativo:hover {
+    text-decoration: none;
+    background: #e8f0fe;
+    border-radius: 8px;
+  }
+  
+  .aplicativo img {
+    max-width: 40px;
+    max-height: 40px;
+    object-fit: contain;
+  }
+
+  .aplicativo strong {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #202124;
+    letter-spacing: 0.09px;
+    width: 79px;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+  
+  #menuAplicativos::-webkit-scrollbar {
+    width: 16px;
+  }
+  
+  #menuAplicativos::-webkit-scrollbar-thumb {
+    background: #dadce0;
+    background-clip: padding-box;
+    border: 4px solid transparent;
+    border-radius: 8px;
+    box-shadow: none;
+    min-height: 50px;
+  }
+  
+  #menuAplicativos::-webkit-scrollbar-track, #menu__app::-webkit-scrollbar-track:hover {
+    background: none;
+    border: none;
+  }

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="&#x421;&#x43B;&#x43E;&#x439;_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-281.9884" y1="-75.503" x2="-258.9883" y2="-52.503" gradientTransform="matrix(1 0 0 1 293.993 87.501)">
+	<stop  offset="0" style="stop-color:#55ADFD"/>
+	<stop  offset="1" style="stop-color:#438FFD"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill:url(#SVGID_1_);" d="M24.005,3.997c11.04,0,20.002,8.961,20.002,20.001
+	s-8.961,20.001-20.002,20.001S4.003,35.038,4.003,23.998S12.965,3.997,24.005,3.997z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-272.9903" y1="-77.5016" x2="-272.9903" y2="-71.5017" gradientTransform="matrix(1 0 0 1 296.993 93.501)">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);" d="M22.002,20.001
+	v9.999h4.001v-9.999H22.002z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-278.9891" y1="-77.5016" x2="-278.9891" y2="-71.5017" gradientTransform="matrix(1 0 0 1 296.993 93.501)">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);" d="M16.003,19.999
+	v9.999h4.001v-9.999H16.003z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-266.9903" y1="-77.5016" x2="-266.9903" y2="-71.5017" gradientTransform="matrix(1 0 0 1 296.993 93.501)">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);" d="M28.002,20.001
+	v9.999h4.001v-9.999H28.002z"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="497.5017" y1="-394.9893" x2="503.5017" y2="-394.9893" gradientTransform="matrix(6.123234e-17 -1 1 6.123234e-17 418.992 533.501)">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_5_);" d="M14.002,32.002
+	l0.001-2.003c0-0.552,0.448-1,1-1h18c0.552,0,1,0.448,1,1v2.003H14.002z"/>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M13.002,34.002
+	l0.001-2.003c0-0.552,0.448-1,1-1h20c0.552,0,1,0.448,1,1v2.003H13.002z"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-269.989" y1="-78.0016" x2="-269.989" y2="-72.0017" gradientTransform="matrix(1 0 0 1 293.993 92.001)">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_6_);" d="M14.003,17.997
+	l0.001,2.003c0,0.552,0.448,1,1,1h18c0.552,0,1-0.448,1-1v-2.003H14.003z"/>
+<path marker-end="none" marker-start="none" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M13.003,18.999v-2
+	c0-0.388,0.22-0.725,0.545-0.891l9.999-5c0.136-0.069,0.291-0.109,0.455-0.109c0.163,0,0.317,0.04,0.453,0.109l9.996,5
+	c0.325,0.165,0.552,0.503,0.552,0.891v2H13.003z"/>
+</svg>
