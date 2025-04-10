@@ -1,7 +1,6 @@
 .rodape {
     display: flex;
     flex-direction: column;
-  
     background: var(--background-footer);
   }
   
